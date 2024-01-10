@@ -1,8 +1,10 @@
 
 ### About me
-I am majoring in statistics.  <br> 
-My GitHub is created for Koreans, with the specific goal of establishing a blog and GitHub repository that Koreans can frequently use to study on their own. Building accessible resources for the Korean community is my objective. <br>
-I started learning `Python` in March 2023, and it's been 9 months since I ventured into machine learning and deep learning. I plan to gain a lot more experience in the future, and I hope my GitHub will be a valuable resource. Looking forward to accumulating more knowledge and skills.
+**I** am majoring in statistics.  <br>
+
+**My GitHub** is created for Koreans, with the specific goal of establishing a blog and GitHub repository that Koreans can frequently use to study on their own. Building accessible resources for the Korean community is my objective. 
+<br>
+**I** started learning `Python` in March 2023, and it's been 9 months since I ventured into machine learning and deep learning. I plan to gain a lot more experience in the future, and I hope my GitHub will be a valuable resource. Looking forward to accumulating more knowledge and skills.
 
 `-` Email: jjh15964@naver.com
 
@@ -14,15 +16,25 @@ I started learning `Python` in March 2023, and it's been 9 months since I ventur
 ### Arrange 
 
 #### Basic introduce tour
-- [모두의 딥러닝](https://pogjunan.github.io/deeplearningforall_blog/)
+- [모두의딥러닝 키워드위주 책 정리](https://pogjunan.github.io/deeplearningforall_blog/)
 
-- [파이토치 워크샵](https://github.com/Pogjunan/DeeplearningwithPytorch/) #미완 
+- [파이토치 워크샵 키워드위주 책 정리](https://github.com/Pogjunan/DeeplearningwithPytorch/) #미완 
+
+<br>
 
 
 #### EDA 
 
+<br>
+
+<br>
+<br>
+<br>
 
 #### DNN algorhythm 
+
+<br>
+<br>
 
 
 #### optimizer
