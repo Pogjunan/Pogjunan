@@ -4,7 +4,7 @@
 
 **My GitHub** is created for Koreans, with the specific goal of establishing a blog and GitHub repository that Koreans can frequently use to study on their own. Building accessible resources for the Korean community is my objective. 
 <br>
-**I** started learning `Python` in March 2023, and it's been 9 months since I ventured into machine learning and deep learning. I plan to gain a lot more experience in the future, and I hope my GitHub will be a valuable resource. Looking forward to accumulating more knowledge and skills.
+**I** started learning `Python` in March 2023, and it's been 9 months since I learn into machine learning and deep learning. I plan to gain a lot more experience in the future, and I hope my GitHub will be a valuable resource. Looking forward to accumulating more knowledge and skills.
 
 `-` Email: jjh15964@naver.com
 
