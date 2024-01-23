@@ -33,6 +33,9 @@
 
 #### DNN algorhythm 
 
+
+- [STN(Spatial Transformer Network) 알고리즘 연습](https://github.com/Pogjunan/STN_puzzle)
+  
 <br>
 <br>
 
