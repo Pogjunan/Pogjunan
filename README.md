@@ -1,6 +1,6 @@
 
 ### About me
-**I** am majoring in statistics.  <br>
+**I** am majoring in statistics. My hometown is Hayang-eup ( in Gyeongsan that it is near Daegu #15 minutes by car, and I'll arrive in Daegu) and I live in Jeonju.  <br>
 
 **My GitHub** is created for Koreans, with the specific goal of establishing a blog and GitHub repository that Koreans can frequently use to study on their own. Building accessible resources for the Korean community is my objective. 
 <br>
@@ -23,8 +23,9 @@
 <br>
 
 
-#### EDA 
+#### DashBoard
 
+- [뉴욕택시 평균속력,이동거리 Heatmap 등 시각화](https://github.com/Pogjunan/DASHE)
 <br>
 
 <br>
