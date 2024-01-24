@@ -25,7 +25,7 @@
 
 #### DashBoard
 
-- [뉴욕택시 평균속력,이동거리 Heatmap 등 시각화](https://github.com/Pogjunan/DASHE)
+- [뉴욕택시 평균속력,이동거리 Heatmap 등 시각화]([https://github.com/Pogjunan/DASHE](https://pogjunan.github.io/DASHE/NYCTaxi.html)
 <br>
 
 <br>
