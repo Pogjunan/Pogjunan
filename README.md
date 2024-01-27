@@ -22,6 +22,7 @@
 
 <br>
 
+`-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 강좌 
 
 #### DashBoard
 
