@@ -42,8 +42,8 @@
 - [Unet3+ 정리 중](https://github.com/Pogjunan/unet3.git)
 <br>
 <br>
-- [puzzleViTModel 사용- ViTmodel.ipynb](https://github.com/Pogjunan/puzzleBaseline)
-#4x4 직소퍼즐에 pretrained 모델사용시 정확도 : 0.25 
+
+- [puzzleViTModel 사용- ViTmodel.ipynb](https://github.com/Pogjunan/puzzleBaseline) # 4x4 직소퍼즐에 pretrained 모델사용( 정확도 : 0.25 )
 
 #### optimizer
 
