@@ -24,6 +24,11 @@
 
 `-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 강좌 
 
+
+#### Basic theorem tour
+- [Goodfellow의딥러닝기초](https://github.com/Pogjunan/deeplearningbook) #deeplearningbook.org 해석과 요약
+
+
 #### DashBoard
 
 - [뉴욕택시 평균속력,이동거리 Heatmap 등 시각화](https://pogjunan.github.io/DASHE/NYCTaxi.html)
