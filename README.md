@@ -22,29 +22,7 @@
 
 <br>
 
-`-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 강좌 
-
-
-#### Basic theorem tour
-- [Goodfellow의딥러닝기초](https://github.com/Pogjunan/deeplearningbook) #deeplearningbook.org 해석과 요약
-
-
-#### DashBoard
-
-- [뉴욕택시 평균속력,이동거리 Heatmap 등 시각화](https://pogjunan.github.io/DASHE/NYCTaxi.html)
-<br>
-
-<br>
-<br>
-<br>
-
-#### DNN algorhythm 
-
-
-- [STN(Spatial Transformer Network) 알고리즘 연습](https://github.com/Pogjunan/STN_puzzle)
-
-
-- [Unet3+ 정리 중](https://github.com/Pogjunan/unet3.git)
+`-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 작
 <br>
 <br>
 
