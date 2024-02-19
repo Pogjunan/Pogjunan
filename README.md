@@ -44,7 +44,7 @@
 - [reinforcement tutorial](https://github.com/topics/reinforcement-learning-tutorials) #공부중/
 - [transformer Mechanism](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html) #공부중
 - [Yolo Algorithm](https://www.v7labs.com/blog/yolo-object-detection) #공부중
-- [reinforce algorithm](https://openreview.net/forum?id=IgjQwWUtYX)
+- [reinforce algorithm](https://openreview.net/forum?id=IgjQwWUtYX) 
 ---
 
 ##### Competition
