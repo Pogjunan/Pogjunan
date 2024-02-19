@@ -34,14 +34,17 @@
 
 <br>
 - [puzzletransformer99퍼repo](https://github.com/Pogjunan/puzzleBaseline/blob/main/%EC%97%B0%EA%B5%ACtransformer.ipynb) #4x4 직소퍼즐을 0.99 로 완벽히 풀었다. 해석중
-#### optimizer
-
 
 #### Deeplearning research
 - [우분투(리눅스)환경에서 가상환경 공부](https://github.com/Pogjunan/datatoolbox_24) # 가상환경을 이용하여 gpu 연결 및 오류 해결에 사용 필요.(Anaconda prompt 가 기본세팅입니다.)
 
 - [프롬프트 엔지니어링] #
-- [transformer tutorial](https://github.com/NielsRogge/Transformers-Tutorials)
+- [transformer tutorial](https://github.com/NielsRogge/Transformers-Tutorials) #공부중///
+- [Yolo tutorial](https://github.com/TannerGilbert/YOLO-Tutorials) #공부중//
+- [reinforcement tutorial](https://github.com/topics/reinforcement-learning-tutorials) #공부중/
+- [transformer Mechanism](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html) #공부중
+- [Yolo Algorithm](https://www.v7labs.com/blog/yolo-object-detection) #공부중
+- [reinforce algorithm](https://openreview.net/forum?id=IgjQwWUtYX)
 ---
 
 ##### Competition
@@ -52,6 +55,7 @@
 ---
 <!---
 On the dawn of 2024, as a junior in the field of deep learning, Pogjunan is about to hatch soon. Anticipate exciting developments ahead!😆
+(https://github.com/topics/neural-network-tutorials)
 --->
 ⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
 ⬜⬜⬛🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
