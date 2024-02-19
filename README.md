@@ -26,7 +26,7 @@
 <br>
 <br>
 
-- [puzzleViTModel 사용- ViTmodel.ipynb](https://github.com/Pogjunan/puzzleBaseline) # 4x4 직소퍼즐에 pretrained 모델사용( 정확도 : 0.25 )
+- [puzzleViTModel 사용- ViTmodel.ipynb](https://github.com/Pogjunan/puzzleBaseline) # 4x4 직소퍼즐에 pretrained 모델사용
 
 #### optimizer
 
@@ -34,6 +34,7 @@
 #### Deeplearning research
 - [우분투(리눅스)환경에서 가상환경 공부](https://github.com/Pogjunan/datatoolbox_24) # 가상환경을 이용하여 gpu 연결 및 오류 해결에 사용 필요.(Anaconda prompt 가 기본세팅입니다.)
 
+- [프롬프트 엔지니어링] #
 ---
 
 ##### Competition
