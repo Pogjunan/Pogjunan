@@ -33,6 +33,7 @@
 [puzzle 정답자료]
 
 <br>
+
 - [puzzletransformer99퍼repo](https://github.com/Pogjunan/puzzleBaseline/blob/main/%EC%97%B0%EA%B5%ACtransformer.ipynb) #4x4 직소퍼즐을 0.99 로 완벽히 풀었다. 해석중
 
 #### Deeplearning research
