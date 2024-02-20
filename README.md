@@ -31,8 +31,6 @@
 
 `-` [GNN](https://github.com/Pogjunan/GNN)
 
-- [puzzletransformer99퍼repo](https://github.com/Pogjunan/puzzleBaseline/blob/main/%EC%97%B0%EA%B5%ACtransformer.ipynb) #4x4 직소퍼즐을 0.99 로 완벽히 풀었다. 해석중
-
 #### Deeplearning research
 - [우분투(리눅스)환경에서 가상환경 공부](https://github.com/Pogjunan/datatoolbox_24) # 가상환경을 이용하여 gpu 연결 및 오류 해결에 사용 필요.(Anaconda prompt 가 기본세팅입니다.)
  
@@ -53,6 +51,7 @@
 <br>
 [puzzle 정답자료]
 <br>
+- [puzzletransformer99퍼repo](https://github.com/Pogjunan/puzzleBaseline/blob/main/%EC%97%B0%EA%B5%ACtransformer.ipynb) #4x4 직소퍼즐을 0.99 로 완벽히 풀었다. 해석중
 
 
 
