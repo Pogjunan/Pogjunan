@@ -31,6 +31,9 @@
 
 `-` [GNN](https://github.com/Pogjunan/GNN)
 
+<br>
+
+`-` [STN Tuto](https://github.com/Pogjunan/STN_puzzle/tree/main/1puzzlekagglespa)
 #### Deeplearning research
 - [우분투(리눅스)환경에서 가상환경 공부](https://github.com/Pogjunan/datatoolbox_24) # 가상환경을 이용하여 gpu 연결 및 오류 해결에 사용 필요.(Anaconda prompt 가 기본세팅입니다.)
  
