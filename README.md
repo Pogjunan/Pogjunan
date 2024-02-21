@@ -16,7 +16,7 @@
 ### Arrange 
 
 #### Basic introduce tour
-- [모두의딥러닝 키워드위주 책 정리](https://pogjunan.github.io/deeplearningforall_blog/)
+- [모두의딥러닝 키워드위주 책 정리](https://pogjunan.github.io/newblog/) 
 
 - [파이토치 워크샵 키워드위주 책 정리](https://github.com/Pogjunan/DeeplearningwithPytorch/) #완성직전
 
