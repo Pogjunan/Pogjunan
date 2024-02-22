@@ -28,9 +28,6 @@
 
 #### Model
 <br>
-
-`-` [GNN](https://github.com/Pogjunan/GNN)
-
 <br>
 
 `-` [STN Tuto](https://github.com/Pogjunan/STN_puzzle/tree/main/1puzzlekagglespa)
