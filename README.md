@@ -22,7 +22,6 @@
 
 <br>
 
-`-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 작
 <br>
 <br>
 
@@ -41,6 +40,8 @@
 <!---
 On the dawn of 2024, as a junior in the field of deep learning, Pogjunan is about to hatch soon. Anticipate exciting developments ahead!😆
 (https://github.com/topics/neural-network-tutorials)
+`-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 작
+
 --->
 ⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
 ⬜⬜⬛🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
