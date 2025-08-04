@@ -13,27 +13,13 @@
 
 --- 
 
-### Arrange 
+`-` RAG 와 LangChain 적용 : 코드에 대해서는 아직 beta 버전이고 project 이므로 공개 x 사진만 선공개
 
-#### Basic introduce tour
-- [모두의딥러닝 키워드위주 책 정리](https://pogjunan.github.io/newblog/) 
-
-- [파이토치 워크샵 키워드위주 책 정리](https://github.com/Pogjunan/DeeplearningwithPytorch/) #완성직전
-
-<br>
-
-<br>
-<br>
-
-#### Model
-<br>
-<br>
-
-`-` [STN Tuto](https://github.com/Pogjunan/STN_puzzle/tree/main/1puzzlekagglespa)
-#### Deeplearning research
-- [우분투(리눅스)환경에서 가상환경 공부](https://github.com/Pogjunan/datatoolbox_24) # 가상환경을 이용하여 gpu 연결 및 오류 해결에 사용 필요.(Anaconda prompt 가 기본세팅입니다.)
+<img width="2303" height="755" alt="RAG예시1" src="https://github.com/user-attachments/assets/b03f4f95-c5b4-4989-bacd-1f0a755496d0" />
 
 
+
+<img width="2274" height="363" alt="RAG예시2" src="https://github.com/user-attachments/assets/e1117f80-b3a5-4cdf-8183-ade8c1a3544e" />
 
 
 ---
