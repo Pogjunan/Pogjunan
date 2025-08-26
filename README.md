@@ -8,8 +8,6 @@
 
 `-` Email: jjh15964@naver.com
 
-`-` Phone: 010 - 7277 - 0942 
-
 
 --- 
 
