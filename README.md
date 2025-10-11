@@ -10,23 +10,6 @@
 
 
 --- 
-
-`-` RAG 와 LangChain 적용 : 코드에 대해서는 아직 beta 버전이고 project 이므로 공개 x 사진만 선공개
-
-<img width="2303" height="755" alt="RAG예시1" src="https://github.com/user-attachments/assets/b03f4f95-c5b4-4989-bacd-1f0a755496d0" />
-
-
-
-<img width="2274" height="363" alt="RAG예시2" src="https://github.com/user-attachments/assets/e1117f80-b3a5-4cdf-8183-ade8c1a3544e" />
-
-
----
-<!---
-On the dawn of 2024, as a junior in the field of deep learning, Pogjunan is about to hatch soon. Anticipate exciting developments ahead!😆
-(https://github.com/topics/neural-network-tutorials)
-`-` [numpy 와 pandas 기초강의](https://github.com/Pogjunan/pandas.git) # 동아리 부원 작
-
---->
 ⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
 ⬜⬜⬛🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
 ⬜⬛🟥🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
