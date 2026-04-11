@@ -1,34 +1,33 @@
+## About me
 
-### About me
-**I** am majoring in statistics.<br>
+Hi, I'm Junhan Jeon.
 
-**My GitHub** is created for Koreans, with the specific goal of establishing a blog and GitHub repository that Koreans can frequently use to study on their own. Building accessible resources for the Korean community is my objective. 
-<br>
-**I** started learning `Python` in March 2023, and it's been 9 months since I learn into machine learning and deep learning. I plan to gain a lot more experience in the future, and I hope my GitHub will be a valuable resource. Looking forward to accumulating more knowledge and skills.
+I am an undergraduate researcher in Statistics at Jeonbuk National University, with a minor in Mathematics. My current work focuses on conditional diffusion models for spatiotemporal generative forecasting, especially architecture design, conditioning, training objectives, sampling methods, and ablation-driven model analysis.
 
-`-` Email: jjh15964@naver.com
+I co-authored an accepted IEEE GRSL paper on satellite-based solar irradiance prediction, and I am currently leading a first-author study on conditional diffusion for the same forecasting problem.
 
+This GitHub is where I organize research code, paper implementations, and study notes related to generative modeling and forecasting. I care about building code that is not only runnable, but also interpretable, analyzable, and easy to extend.
 
---- 
-⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
-⬜⬜⬛🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
-⬜⬛🟥🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
-⬜⬛🟥🟥⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜ <br>
-⬛🟥🟨🟨🟥⬛⬜⬜⬜⬜⬜⬜⬜⬛🟧🟧🟧🟧⬛⬜⬜⬜ <br>
-⬛🟥🟨🟨🟥⬛⬜⬜⬜⬜⬜⬜⬛🟧🟧🟧🟧🟧🟧⬛⬜⬜ <br>
-⬛🟥🟨🟨🟥⬛⬜⬜⬜⬜⬜⬜⬛🟧🟧🟧🟧🟧🟧⬛⬜⬜ <br>
-⬜⬛🟥🟥⬛⬜⬜⬜⬜⬜⬜⬛🟧🟧🟧🟧🟧🟧🟧🟧⬛⬜ <br>
-⬜⬜⬛🟧⬛⬜⬜⬜⬜⬜⬜⬛🟧🟧🟧🟧⬛⬜🟧🟧🟧⬛ <br>
-⬜⬜⬛🟧🟧⬛⬜⬜⬜⬜⬛🟧🟧🟧🟧🟧⬛⬛🟧🟧🟧⬛ <br>
-⬜⬜⬛🟧🟧⬛⬜⬜⬜⬜⬛🟧🟧🟧🟧🟧⬛⬛🟧🟧🟧⬛ <br>
-⬜⬜⬜⬛🟧🟧⬛⬜⬜⬛🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧⬛⬜ <br>
-⬜⬜⬜⬛🟧🟧🟧⬛⬛🟧🟧🟧🟧🟧🟧🟧🟧🟧⬛⬛⬜⬜ <br>
-⬜⬜⬜⬜⬛🟧🟧⬛⬛🟧🟧🟧⬛🟧🟧⬛⬛⬛⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬛🟧⬛🟧🟧🟧🟧🟧⬛🟧🟨⬛⬜⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬜⬛⬛🟧🟧🟧⬛⬛🟨🟨🟨⬛⬜⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬜⬜⬛🟧🟧🟧🟧🟨🟨🟨⬛⬜⬛⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬜⬜⬛⬛🟧🟧🟧🟧🟧⬛⬛⬛⬜⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛🟧⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜🟧⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <br>
+## Research interests
 
+- Generative and predictive model architecture design
+- Conditional diffusion models for spatiotemporal forecasting
+- Bayesian statistics and probabilistic modeling
+- Multimodal modeling and predictive world models
+
+## Current focus
+
+- DDPM / DDIM sampling
+- Attention-based U-Net architectures
+- Conditioning module design
+- Loss weighting and ablation-driven analysis
+- Satellite-based spatiotemporal forecasting
+
+## Tech stack
+
+Python · PyTorch · Linux · Git · JupyterLab
+
+## Contact
+
+- Email: jjh15063@gmail.com
+- GitHub: https://github.com/Pogjunan
