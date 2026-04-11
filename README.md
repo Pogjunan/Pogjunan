@@ -4,9 +4,9 @@ Hi, I'm Junhan Jeon.
 
 I am an undergraduate researcher in Statistics at Jeonbuk National University, with a minor in Mathematics. My current work focuses on conditional diffusion models for spatiotemporal generative forecasting, especially architecture design, conditioning, training objectives, sampling methods, and ablation-driven model analysis.
 
-I co-authored an accepted IEEE GRSL paper on satellite-based solar irradiance prediction, and I am currently leading a first-author study on conditional diffusion for the same forecasting problem.
+I co-authored an accepted IEEE GRSL paper on satellite-based solar irradiance prediction, and I am currently leading a study on conditional diffusion for the same forecasting problem.
 
-This GitHub is where I organize research code, paper implementations, and study notes related to generative modeling and forecasting. I care about building code that is not only runnable, but also interpretable, analyzable, and easy to extend.
+This GitHub is where I organize research code, paper implementations, and study notes related to generative modeling and forecasting.
 
 ## Research interests
 
@@ -19,18 +19,16 @@ This GitHub is where I organize research code, paper implementations, and study 
 ## Current focus
 
 - DDPM / DDIM sampling
-- Attention-based U-Net architectures
-- Conditioning module design
+- Architecture design
 - Satellite-based spatiotemporal forecasting
 
 ## Tech stack
 
-Python · PyTorch · Linux · Git · JupyterLab
+Python · TensorFlow · PyTorch · Linux · Git · JupyterLab · R · PuTTy 
 
 ## Background
 
 - Statistics
-- Probability theory
 - Mathematical statistics
 - Real analysis
 - Bayesian statistics (basic)
@@ -46,17 +44,17 @@ Python · PyTorch · Linux · Git · JupyterLab
 
 ## Main research direction I want to study during my M.S.
 
-- Bayesian based Probability ML
+- Bayesian statistics / Probabilistic ML 
 - Multimodal learning
 
-## Research Interests
+
+
+## Long term Research Interests
 
 - Reinforcement learning ( RL , IRL ) 
 - Domain adaptation (transfer learning , Meta learning , ... )
 - World models ( VLA , JEPA , AGI )
-- Bayesian neural networks ( B
-- Representation learning theory
-
+- Bayesian neural networks ( Uncertainty-aware , AGI )
 
 
 
