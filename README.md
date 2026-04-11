@@ -19,8 +19,18 @@ This GitHub is where I organize research code, paper implementations, and study 
 ## Current focus
 
 - DDPM / DDIM sampling
-- Architecture design
 - Satellite-based spatiotemporal forecasting
+
+
+
+## Publications
+
+. Kim, **J. Jeon**, J. Wie, J. Yeom, and G. Kim, “Spatiotemporal Attention with Conditional Feature Modula-
+tion for Satellite-Based Solar Irradiance Prediction,” IEEE Geoscience and Remote Sensing Letters, accepted
+for publication, Dec. 2025.
+
+
+
 
 ## Tech stack
 
