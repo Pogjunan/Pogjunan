@@ -75,7 +75,7 @@ Python · TensorFlow · PyTorch · Linux · Git · JupyterLab · R · PuTTy
 
 
 
-## Invited Camp
+## Camp
 
 - [서울대학교 수학교육과] 제3회 함수해석학 입문캠프 (2025.12) 
 https://sites.google.com/site/sanggyunyoun/links/2026-winter-camp-for-fa
