@@ -6,7 +6,6 @@ I am an undergraduate researcher in Statistics at Jeonbuk National University, w
 
 I co-authored an accepted IEEE GRSL paper on satellite-based solar irradiance prediction, and I am currently leading a study on conditional diffusion for the same forecasting problem.
 
-This GitHub is where I organize research code, paper implementations, and study notes related to generative modeling and forecasting.
 
 ## Research interests
 
@@ -61,11 +60,10 @@ Python · TensorFlow · PyTorch · Linux · Git · JupyterLab · R · PuTTy
 
 ## Long term Research Interests
 
-- Reinforcement learning ( RL , IRL ) 
 - Domain adaptation (transfer learning , Meta learning , ... )
-- World models ( VLA , JEPA , AGI )
-- Bayesian neural networks ( Uncertainty-aware , AGI )
-
+- World models ( VLA , JEPA , AGI , .. )
+- Bayesian neural networks ( Uncertainty-aware , AGI ) 
+- Reinforcement learning ( RL , IRL ) 
 
 
 
