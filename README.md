@@ -64,7 +64,10 @@ Now Using : L40S (multi-GPU) · H200  — remote Linux server (PuTTY/SSH)
 - Domain adaptation (transfer learning , Meta learning , ... ) : I learned by Kwang su Kim. at class. (basic)
 - World models ( VLA , JEPA , .. ) : I read JEPA paper written by Yann LeCun.
 - Bayesian neural networks ( Uncertainty-aware , Reasoning ) : I learned by Kwang su Kim. at class. (basic)
-- Reinforcement learning ( RL , IRL ) : cs188-fa24 (UC Berkeley Course) https://github.com/Pogjunan/PacmanGithub_finish , DxMI implementation  ("Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models" , NeurIPS 2024)
+
+- Reinforcement learning ( RL , IRL ) :
+▶cs188-fa24 (UC Berkeley Course) https://github.com/Pogjunan/PacmanGithub_finish
+▶ DxMI implementation  ("Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models" , NeurIPS 2024)
 
 
 
@@ -86,5 +89,5 @@ Now Using : L40S (multi-GPU) · H200  — remote Linux server (PuTTY/SSH)
 
 ## Camp
 
-- [서울대학교 수학교육과] 제3회 함수해석학 입문캠프 (2025.12) 
+- [서울대학교 수학교육과] 제3회 함수해석학 입문캠프 (2026.01) 
 https://sites.google.com/site/sanggyunyoun/links/2026-winter-camp-for-fa
