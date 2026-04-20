@@ -2,17 +2,16 @@
 
 Hi, I'm Junhan Jeon.
 
-I am an undergraduate researcher in Statistics at Jeonbuk National University, with a minor in Mathematics. My current work focuses on conditional diffusion models for spatiotemporal generative forecasting, especially architecture design, conditioning, training objectives, sampling methods, and ablation-driven model analysis.
-
+I am an undergraduate researcher in Statistics at Jeonbuk National University, with a minor in Mathematics. 
 I co-authored an accepted IEEE GRSL paper on satellite-based solar irradiance prediction, and I am currently leading a study on conditional diffusion for the same forecasting problem.
 
 
 ## Research interests
 
 - Generative and predictive model architecture design
-- Conditional diffusion models for spatiotemporal forecasting
 - Bayesian statistics and probabilistic modeling
-- Multimodal modeling and predictive world models
+- Multimodal modeling
+- World Model
 
 
 ## Current focus
@@ -30,10 +29,15 @@ for publication, Dec. 2025.
 
 
 
+## Tech Stack
+Python · PyTorch · TensorFlow · Linux · Git · JupyterLab · R 
 
-## Tech stack
 
-Python · TensorFlow · PyTorch · Linux · Git · JupyterLab · R · PuTTy 
+**GPU / Server:** 
+
+Used : A100 · L40S (multi-GPU) · H200 — remote Linux server (PuTTY/SSH)
+Now Using : L40S (multi-GPU) · H200  — remote Linux server (PuTTY/SSH)
+
 
 ## Background
 
@@ -45,11 +49,8 @@ Python · TensorFlow · PyTorch · Linux · Git · JupyterLab · R · PuTTy
 ## Foundations I want to complete during my M.S.
 
 - Probabilistic modeling
-- Stochastic process
-  - Gaussian process
-  - Lévy process
 - Measure theory
-- Convex optimization
+
 
 ## Main research direction I want to study during my M.S.
 
@@ -60,10 +61,10 @@ Python · TensorFlow · PyTorch · Linux · Git · JupyterLab · R · PuTTy
 
 ## Long term Research Interests
 
-- Domain adaptation (transfer learning , Meta learning , ... )
-- World models ( VLA , JEPA , AGI , .. )
-- Bayesian neural networks ( Uncertainty-aware , AGI ) 
-- Reinforcement learning ( RL , IRL ) 
+- Domain adaptation (transfer learning , Meta learning , ... ) : I learned by Kwang su Kim. at class. (basic)
+- World models ( VLA , JEPA , .. ) : I read JEPA paper written by Yann LeCun.
+- Bayesian neural networks ( Uncertainty-aware , Reasoning ) : I learned by Kwang su Kim. at class. (basic)
+- Reinforcement learning ( RL , IRL ) : cs188-fa24 (UC Berkeley Course) https://github.com/Pogjunan/PacmanGithub_finish , DxMI implementation  ("Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models" , NeurIPS 2024)
 
 
 
