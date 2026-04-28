@@ -65,8 +65,11 @@ Now Using : L40S (multi-GPU) · H200  — remote Linux server (PuTTY/SSH)
 - World models ( VLA , JEPA , .. ) : I read JEPA paper written by Yann LeCun.
 - Bayesian neural networks ( Uncertainty-aware , Reasoning ) : I learned by Kwang su Kim. at class. (basic)
 
+
 - Reinforcement learning ( RL , IRL ) :
+
 ▶cs188-fa24 (UC Berkeley Course) https://github.com/Pogjunan/PacmanGithub_finish
+
 ▶ DxMI implementation  ("Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models" , NeurIPS 2024)
 
 
