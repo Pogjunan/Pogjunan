@@ -9,10 +9,8 @@ I co-authored an accepted IEEE GRSL paper on satellite-based solar irradiance pr
 ## Research interests
 
 - Generative and predictive model architecture design
+- Diffusion model
 - Bayesian statistics and probabilistic modeling
-- Multimodal modeling
-- World Model
-
 
 ## Current focus
 
