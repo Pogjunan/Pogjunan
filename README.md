@@ -1,8 +1,10 @@
 ## About me
 
-Hi, I am Junhan Jeon, an undergraduate researcher in Statistics at Jeonbuk National University.
+Hi, I’m Junhan Jeon, an undergraduate researcher in Statistics at Jeonbuk National University.
 
-Currently, I am expanding my research expertise as an intern at the Generative Intelligence Lab, Korea University. My research focuses on bridging the gap between probabilistic modeling and deep generative architectures. I have a proven track record in addressing real-world predictive challenges, most notably by co-authoring an IEEE GRSL paper on satellite-based solar irradiance forecasting. My current work centers on developing conditional diffusion models for spatiotemporal forecasting, with a strong interest in advancing the theoretical foundations of probabilistic machine learning.
+Currently, I am interning at the Generative Intelligence Lab at Korea University, where I am exploring the application of conditional diffusion models to solar irradiance forecasting. My interest in generative modeling began with my work on satellite-based predictive models, which was recently accepted for publication in IEEE GRSL.
+
+Beyond application, I am deeply motivated to explore the intersection of stochastic processes and generative models. My long-term research goal is to develop more robust predictive frameworks by integrating Bayesian perspectives into probabilistic machine learning. I am eager to pursue graduate studies to bridge the gap between my current empirical research and the rigorous theoretical foundations necessary to tackle complex, real-world stochastic problems.
 ## Research interests
 
 - Generative and predictive model architecture design
@@ -56,8 +58,8 @@ Now Using : L40S (multi-GPU) · H200  — remote Linux server (PuTTY/SSH)
 
 ## Long term Research Interests
 
-- Domain adaptation (transfer learning , Meta learning , ... ) : I learned by Kwang su Kim. at class. (basic)
-- Bayesian neural networks ( Uncertainty-aware , Reasoning ) : I learned by Kwang su Kim. at class. (basic)
+- Domain adaptation (transfer learning , Meta learning , ... ) : I learned by Prof. Kwang-su Kim at class. (basic)
+- Bayesian neural networks ( Uncertainty-aware , Reasoning ) : I learned by Prof. Kwang-su Kim at class. (basic)
 
 
 - Reinforcement learning ( RL , IRL ) :
